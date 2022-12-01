@@ -7,8 +7,8 @@
 echo "welcome to class 30 group 19"
 echo "please enter your name"
 read name
-echo "Thanks for your cooperation $name, your name has been recorded in the class list"
-echo "now enter your github username"
+echo "Thanks for your cooperation $name, your name has been recorded in the student list"
+echo "now enter your username"
 read username
 echo "Your name is $name and your username is $username"
 echo "you are loged in as | printed below"
